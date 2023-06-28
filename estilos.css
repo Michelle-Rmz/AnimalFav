@@ -1,0 +1,31 @@
+body{
+    background-color:#87CCE5;
+    color: black;
+    font-family:'Lucida console', Courier, monospace;
+    text-align: center;
+}
+h1{
+    color: black;
+}
+h3{
+    color: #996C3C;
+    font-size: 23px; 
+}
+p{
+    color:#0F3C4D;
+    font-size: 20px;
+
+}
+a{
+    color:white;
+
+}
+
+img{
+    height: 350px;
+    width: 400px;
+    border-style: solid dotted;
+    margin-bottom: 10px;
+    padding: 10px;
+}
+/*Esto es un comentario */
